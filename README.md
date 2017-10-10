@@ -1,2 +1,2 @@
 # game
-A Tetris game based on H5
+Some simple games based on H5
